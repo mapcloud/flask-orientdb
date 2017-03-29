@@ -11,7 +11,7 @@ setup(
     author='Cory Althoff',
     author_email='coryedwardalthoff@gmail.com',
     url='https://github.com/mapcloud/flask-orientdb',
-    install_requires= ['Flask', 'pyorient==1.5.2'],
+    install_requires= ['Flask', 'pyorient==1.5.4'],
     zip_safe=False,
     include_package_data=True,
     platforms='any',
